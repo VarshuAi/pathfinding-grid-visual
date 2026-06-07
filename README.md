@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Visualizer showing pathfinding vectors navigating barriers.
+  name: pathfinding-grid-visual version: 1.0 type: Repository author: VarshuAi description: >   Visualizer showing pathfinding vectors navigating barriers. primary_tech: CSS
 primary_tech: CSS
 ```
 
